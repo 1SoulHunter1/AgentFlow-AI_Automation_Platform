@@ -2,7 +2,8 @@
 # 🚀 AgentFlow — AI Automation Platform for Modern Teams
 > ⚡ Built with Next.js · Groq AI · LangChain · Notion Integrations · Automation Layer
 
-![AgentFlow Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+![AgentFlow UI Preview](https://github.com/1SoulHunter1/AgentFlow-AI_Automation_Platform/blob/main/AgentFlow-Banner.png)
+
 
 AgentFlow is an **AI-powered automation workspace** that connects your favorite tools, research agents, and chat models into one seamless flow.  
 Think of it as your personal **LangDock + Notion + Zapier**, all unified inside an intelligent dashboard.
