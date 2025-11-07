@@ -1,0 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+## Dependencies
+# Ignore node_modules at any level
+node_modules/
+
+## Build & Cache
+# Next.js, Vercel, and other build/cache outputs
+.next/
+out/
+build/
+dist/
+.vercel/
+.cache/
+*.tsbuildinfo
+next-env.d.ts
+
+## Environment Variables
+# Ignore all environment files (e.g., .env, .env.local)
+.env*
+# IMPORTANT: If you have a .env.example, add !.env.example below to force-include it
+
+## Logs & Debug Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+*.tmp
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## Editor
+.vscode/
+
+## Local Uploads
+uploads/
