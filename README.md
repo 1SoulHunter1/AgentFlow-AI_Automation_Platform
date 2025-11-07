@@ -147,7 +147,7 @@ app/
 
 | Name                            | Role                     |
 | ------------------------------- | ------------------------ |
-| **John Abraham (1SoulHunter1)** | Founder & Lead Developer |
+| **Sheik Mohammad Fawaz (1SoulHunter1)** | Founder & Lead Developer |
 | **ChatGPT (OpenAI)**            | AI Pair Programmer       |
 
 ---
